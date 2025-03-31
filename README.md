@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**fabiogiurdanella/fabiogiurdanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Fabio — a passionate backend developer and data engineer, always looking to build efficient, scalable, and meaningful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on...
+
+I work primarily as a **backend developer**, leading the development of various projects built mainly with **Python** and **Node.js**.
+
+My responsibilities range from designing simple management systems to implementing complex data processing platforms, event tracking systems, and custom reporting tools. Over the years, I’ve grown into the role of a **data engineer**, with a strong focus on **data pipelines**, **event tracking** for web and mobile platforms, and scalable backend services.
+
+I'm proficient in **Docker** and well-versed in building solutions using a **microservices architecture**, which allows me to develop modular, maintainable, and distributed systems.
+
+---
+
+### 🌱 I’m currently learning...
+
+I’m currently diving into the integration of **Artificial Intelligence** within backend systems. After studying the theoretical foundations, I’m now focusing on practical applications to enhance my development capabilities and explore the potential of AI-powered features.
+
+---
+
+### 💬 Ask me about...
+
+I’m open to supporting projects where my current skill set can complement new technologies — especially in the field of data engineering, backend architecture, or applied AI.
+
+---
+
+### 📫 How to reach me...
+
+Feel free to reach out to me on **Telegram** → [@TehXenoy](https://t.me/TehXenoy)
+
+---
+
+### 🛠 Tech Stack
+
+Here are some of the main tools and technologies I work with:
+
+- **Languages**: Python, JavaScript (Node.js), SQL
+- **Frameworks**: Flask, Express.js
+- **Data & Messaging**: PostgreSQL, Redis, RabbitMQ
+- **Containerization**: Docker, Docker Compose
+- **Architecture**: Microservices, REST APIs
+- **Cloud & DevOps**: Google Cloud
+- **Tracking & Analytics**: Event tracking strategies for web/apps, data enrichment pipelines
+- **Other tools**: Git, Postman, VS Code, Linux
+
+---
+
+Thanks for visiting my profile! 🚀
