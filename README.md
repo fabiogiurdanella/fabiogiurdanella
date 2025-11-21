@@ -6,17 +6,11 @@ Welcome to my GitHub profile! I'm Fabio — a passionate backend developer and d
 
 ### 🔭 I’m currently working on...
 
-I work primarily as a **backend developer**, leading the development of various projects built mainly with **Python** and **Node.js**.
+I work primarily as a **backend developer**, leading the development of various projects built mainly with **Node.js** and **Python**.
 
 My responsibilities range from designing simple management systems to implementing complex data processing platforms, event tracking systems, and custom reporting tools. Over the years, I’ve grown into the role of a **data engineer**, with a strong focus on **data pipelines**, **event tracking** for web and mobile platforms, and scalable backend services.
 
 I'm proficient in **Docker** and well-versed in building solutions using a **microservices architecture**, which allows me to develop modular, maintainable, and distributed systems.
-
----
-
-### 🌱 I’m currently learning...
-
-I’m currently diving into the integration of **Artificial Intelligence** within backend systems. After studying the theoretical foundations, I’m now focusing on practical applications to enhance my development capabilities and explore the potential of AI-powered features.
 
 ---
 
@@ -44,7 +38,3 @@ Here are some of the main tools and technologies I work with:
 - **Cloud & DevOps**: Google Cloud
 - **Tracking & Analytics**: Event tracking strategies for web/apps, data enrichment pipelines
 - **Other tools**: Git, Postman, VS Code, Linux
-
----
-
-Thanks for visiting my profile! 🚀
